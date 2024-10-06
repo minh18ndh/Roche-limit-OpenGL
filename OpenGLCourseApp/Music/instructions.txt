@@ -1,0 +1,9 @@
+ 
+ Instructions:
+  Press 'I' to initiate the moon's movement. Press 'P' to pause its movement. Press 'R' to reset its position.
+  Press 'W', 'S', 'A', 'D', 'Q', and 'E' to go forward, backward, left, right, down, and up, respectively.
+  Press 'M' to manually switch the music.
+  Press 'U' or 'Y' for different preset camera positions.
+  Finally, enjoy the simulator!
+  <^_^>
+

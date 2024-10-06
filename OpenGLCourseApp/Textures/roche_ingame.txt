@@ -1,0 +1,12 @@
+  _    _ _____            _   _ _    _  _____  _     _____   ____   _____ _    _ ______     _      _____ __  __ _____ _______      _____ _____ __  __ _    _ _            _______ ____  _____  
+ | |  | |  __ \     /\   | \ | | |  | |/ ____ ( )   |  __ \ / __ \ / ____| |  | |  ____|   | |    |_   _|  \/  |_   _|__   __|    / ____|_   _|  \/  | |  | | |        /\|__   __/ __ \|  __ \ 
+ | |  | | |__) |   /  \  |  \| | |  | | (___  |/    | |__) | |  | | |    | |__| | |__      | |      | | | \  / | | |    | |      | (___   | | | \  / | |  | | |       /  \  | | | |  | | |__) |
+ | |  | |  _  /   / /\ \ | . ` | |  | |\___ \       |  _  /| |  | | |    |  __  |  __|     | |      | | | |\/| | | |    | |       \___ \  | | | |\/| | |  | | |      / /\ \ | | | |  | |  _  / 
+ | |__| | | \ \  / ____ \| |\  | |__| |____) |      | | \ \| |__| | |____| |  | | |____    | |____ _| |_| |  | |_| |_   | |       ____) |_| |_| |  | | |__| | |____ / ____ \| | | |__| | | \ \ 
+  \____/|_|  \_\/_/    \_\_| \_|\____/|_____/       |_|  \_\\____/ \_____|_|  |_|______|   |______|_____|_|  |_|_____|  |_|      |_____/|_____|_|  |_|\____/|______/_/    \_\_|  \____/|_|  \_\
+ 
+  The Roche limit is the minimum distance at which a celestial body, such as a moon, can orbit a larger body, such as a planet, without being torn apart by the larger body's tidal forces. If 
+ the smaller body comes within this limit, the tidal forces due to the gravitational pull of the larger body will exceed the gravitational self-attraction holding the smaller body together, 
+ potentially causing it to disintegrate.
+                                                                                                                                                                                              
+                                                                                                                                                                                              

@@ -1,0 +1,19 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+
+# Temporary files
+*.log
+*.tmp
+*.obj
+*.exe
